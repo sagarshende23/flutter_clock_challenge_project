@@ -1,5 +1,5 @@
 
-<h1 align="center"> Flutter Clock Challenges</h1>
+<h1 align="center"> Flutter Clock Challenge</h1>
 
 </h1>
 <p align="center">
