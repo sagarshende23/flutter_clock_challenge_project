@@ -24,8 +24,8 @@
 ## 📱 Screenshots #
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sagarshende23/flutter_clock_challenge_project/master/1.png?token=AKKE6COPTN57KE7LIS4CYN26EVCNW">
-  <img src="https://raw.githubusercontent.com/sagarshende23/flutter_clock_challenge_project/master/2.png?token=AKKE6CKV7KNMQWGRYJ67F5C6EVCQO" >
+  <img src="https://raw.githubusercontent.com/sagarshende23/flutter_clock_challenge_project/master/1.png?token=AKKE6COYRVMHWMY7KEB3ZQK6EVDF2">
+  <img src="https://raw.githubusercontent.com/sagarshende23/flutter_clock_challenge_project/master/2.png?token=AKKE6CJZYOPFIJXZUVE6BWS6EVDGA" >
   
 </p>
 
